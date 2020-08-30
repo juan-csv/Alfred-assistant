@@ -22,6 +22,7 @@ Alfred supports a lot of languages, you can experiment with different languages 
 # Future work
 - Add support for [SpeechRecognition](https://github.com/Uberi/speech_recognition#readme) and [pocketsphinx](https://github.com/cmusphinx/pocketsphinx) library for real-time speech recognition module.
 - Add wake-word or hot word functionality, for Alfred's call, using [snowboy](https://github.com/Kitt-AI/snowboy)
+- Add intent detector
 
 # References
 - **Face Recognition:** https://github.com/juan-csv/face-recognition
